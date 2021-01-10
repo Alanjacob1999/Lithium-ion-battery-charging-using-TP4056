@@ -1,0 +1,31 @@
+IC TP-4056 is a 1A stand alone single lithium-ion battery charging module with 2 LED indicaters for the indication of charging and fully-charged.
+
+DataSheet:-  
+Input Voltage : 4-8V
+Output Voltage : 4.2V
+Output Charing Current: 1A (Max) (Adjustable through Rprog)
+
+Rprog|Ibat
+kΩ	  mA
+30	  50
+20	  70
+10	  130
+5	    250
+4	    300
+3	    400
+2	    580
+1.66  690
+1.5	  780
+1.33	900
+1.2	  1000
+
+Advantages: 
+1) Simple to use
+2) Adjustable Current using single resistor as discussed above
+3) Linear Charge
+4) Small module
+
+Disadvantages:
+1) Max. Output is 4.2V 
+2) Max. Input is 8V
+3) Max. Charging Current is 1A.  
